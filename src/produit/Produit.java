@@ -20,7 +20,11 @@ public abstract class Produit implements Description, IProduit {
         return unite;
     }
 
-
+    @Override
+    public double calculerPrix(int prix);
+    
+    
+    
     @Override
     public abstract String description();
 }
