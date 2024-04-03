@@ -1,4 +1,4 @@
-package scenarioTest;
+/*package scenarioTest;
 
 import personnages.Gaulois;
 import villagegaulois.Etal;
@@ -46,4 +46,4 @@ public class Scenario {
 
 	}
 
-}
+}*/
